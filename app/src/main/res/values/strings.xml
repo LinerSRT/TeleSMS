@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TeleSMS</string>
+    <string name="start">Старт</string>
+    <string name="channel_id">Введите ID канала</string>
+    <string name="bot_token">Введите токен бота</string>
+    <string name="autostart_check">Настроить автозапуск</string>
+    <string name="autorun_settings_not_found">Не найдены настройки автозапуска, попробуйте настроить их вручную!</string>
+</resources>
